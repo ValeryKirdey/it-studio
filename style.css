@@ -217,6 +217,82 @@ h1 {
     text-align: center;
 }
 
+.high-standards {
+    background-color: #F6F6F8;
+    
+}
+
+.high-standarts-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #E0E0E0;
+    
+}
+
+.high-standarts-text {
+    width: 50%;
+}
+
+.high-standarts-text p {
+    font-family: 'Montserrat-Regular';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 25px;
+    color: #999999;
+}
+
+.high-standarts-text a {
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: #4985FF;
+}
+
+.high-standarts-text h2{
+    display: flex;
+    justify-content: start;
+    
+}
+
+.high-standarts-picture {
+    margin: 100px 0;
+    
+    
+}
+
+.our-projects {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.our-projects-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: -40px;
+    
+}
+
+.our-projects-info h3{
+    font-size: 36px;
+    line-height: 53px;
+    font-family: 'Montserrat-Regular';
+    color: #000000;
+}
+
+.our-projects-box {
+    font-size: 16px;
+    line-height: 25px;
+    font-family: 'Montserrat-Regular';
+    color: #999999;
+    margin: 70px 0;
+}
+
+
 .our-works {
     padding: 100px 0 85px;
     background: linear-gradient(#504DC2 50%, #fff 50%)
@@ -268,14 +344,14 @@ h1 {
     line-height: 25px;
     margin-bottom: 38px;
     color: #999999;
-    font-family: 'Montserrat Regular';
+    font-family: 'Montserrat-Regular';
 }
 
 .our-works-item a {
     font-size: 16px;
     line-height: 20px;
     color: #4985FF;
-    font-family: 'Montserrat Regular';
+    font-family: 'Montserrat-Regular';
 }
 
 .about-work {
@@ -296,7 +372,7 @@ h1 {
     font-size: 16px;
     line-height: 25px;
     color: #999999;
-    font-family: 'Montserrat Regular';
+    font-family: 'Montserrat-Regular';
     margin-bottom: 70px;
     margin: 0;
 }
